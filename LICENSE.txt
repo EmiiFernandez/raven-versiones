@@ -1,0 +1,42 @@
+Raven - IOL Tracking System
+Copyright (c) 2026 Emilia Fernández. Todos los derechos reservados.
+
+LICENCIA DE USO (SOFTWARE PRIVATIVO)
+
+1. Titularidad. Raven, su código fuente y su código compilado, los
+   instaladores, el diseño de las pantallas, los textos, los íconos y la
+   documentación (en conjunto, "el Software") son obra de Emilia Fernández
+   (la "Titular") y están protegidos por la Ley 11.723 de Propiedad
+   Intelectual de la República Argentina y por los tratados internacionales
+   sobre derecho de autor.
+
+2. Uso permitido. Solo pueden usar el Software las personas e instituciones
+   a las que la Titular se lo haya habilitado expresamente, en las
+   computadoras donde ella lo haya instalado o autorizado a instalar. Esta
+   licencia no transfiere ninguna parte de la propiedad del Software.
+
+3. Usos prohibidos. Sin autorización previa y por escrito de la Titular no
+   se permite:
+   a) copiar el Software, salvo la instalación autorizada y sus respaldos;
+   b) modificarlo, adaptarlo, traducirlo o crear obras derivadas;
+   c) distribuirlo, publicarlo, venderlo, alquilarlo, prestarlo o
+      sublicenciarlo, por cualquier medio;
+   d) descompilarlo, desensamblarlo o aplicarle ingeniería inversa, salvo en
+      la medida en que la ley lo permita de forma expresa;
+   e) quitar, ocultar o modificar los avisos de autoría y de derechos.
+
+4. Datos. Los datos que cada institución carga en el Software (lentes,
+   pacientes, médicos, coberturas y demás) son de esa institución y se
+   guardan en su red local. El Software no los envía a la Titular ni a
+   terceros.
+
+5. Sin garantía. El Software se entrega "tal como está", sin garantías de
+   ningún tipo. En la medida en que la ley lo permita, la Titular no
+   responde por daños derivados de su uso o de la imposibilidad de usarlo.
+   La carga en sistemas externos (por ejemplo, la trazabilidad de PAMI o
+   ANMAT) sigue siendo responsabilidad de quien la realiza.
+
+6. Fin de la licencia. El uso no autorizado termina esta licencia de forma
+   automática, sin perjuicio de las acciones que correspondan.
+
+Consultas y autorizaciones: Emilia Fernández.
